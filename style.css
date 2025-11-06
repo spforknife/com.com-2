@@ -1,0 +1,21 @@
+#left-bar {
+    height:200%;
+    background-color:lightgrey;
+    width:250px;
+    margin-right:10px;
+    float:left;
+    padding:6px;
+}
+#right-bar {
+    padding:10px;
+    margin-left:10px;
+    
+}
+#intro-text {
+    padding:15px;
+    padding-top:6px;
+}
+img {  
+   width:400px;
+   border: 15px ridge gold;
+}
